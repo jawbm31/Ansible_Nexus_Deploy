@@ -1,0 +1,7 @@
+[webserver]
+"REMOTE_iP_ADDRES"
+
+
+[webserver:vars]
+ansible_private_ssh_key_file=~/.ssh/id_rsa
+ansible_user=root
