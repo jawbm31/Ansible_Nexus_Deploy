@@ -30,6 +30,6 @@ your.server.ip
 
 3. Run the Playbook
 You can now run the playbook using the following command:
-- ansible-playbook -i hosts setup-nexus.yml
+- ansible-playbook -i hosts deploy_nexus.yaml
 This will execute the playbook on your webserver.
 
